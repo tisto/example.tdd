@@ -1,6 +1,8 @@
 setuptools
+postmonkey
 
 [test]
 plone.app.testing
+mocker
 robotsuite
 robotframework-selenium2library

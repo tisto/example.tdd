@@ -40,10 +40,11 @@ setup(name='example.tdd',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          # -*- Extra requirements: -*-
+          'postmonkey',
       ],
       extras_require={"test": [
         "plone.app.testing",
+        "mocker",
         "robotsuite",
         "robotframework-selenium2library"],
       },
