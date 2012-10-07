@@ -2,3 +2,5 @@ setuptools
 
 [test]
 plone.app.testing
+robotsuite
+robotframework-selenium2library

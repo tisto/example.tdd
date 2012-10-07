@@ -42,7 +42,11 @@ setup(name='example.tdd',
           'setuptools',
           # -*- Extra requirements: -*-
       ],
-      extras_require={'test': ['plone.app.testing']},
+      extras_require={"test": [
+        "plone.app.testing",
+        "robotsuite",
+        "robotframework-selenium2library"],
+      },
       entry_points="""
       # -*- Entry points: -*-
       [z3c.autoinclude.plugin]

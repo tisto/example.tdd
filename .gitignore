@@ -17,8 +17,7 @@
 /.project
 /.pydevproject
 /.mr.developer.cfg
-/src/plone*
-/src/collective*
+/src/*
 *.mo
 *.egg
 docs/Makefile

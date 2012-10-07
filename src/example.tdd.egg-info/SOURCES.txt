@@ -14,4 +14,5 @@ src/example.tdd.egg-info/top_level.txt
 src/example/tdd/__init__.py
 src/example/tdd/testing.py
 src/example/tdd/tests/__init__.py
+src/example/tdd/tests/test_acceptance.py
 src/example/tdd/tests/test_example.py
