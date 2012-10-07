@@ -1,0 +1,17 @@
+README.txt
+setup.cfg
+setup.py
+src/example/__init__.py
+src/example.tdd.egg-info/PKG-INFO
+src/example.tdd.egg-info/SOURCES.txt
+src/example.tdd.egg-info/dependency_links.txt
+src/example.tdd.egg-info/entry_points.txt
+src/example.tdd.egg-info/namespace_packages.txt
+src/example.tdd.egg-info/not-zip-safe
+src/example.tdd.egg-info/paster_plugins.txt
+src/example.tdd.egg-info/requires.txt
+src/example.tdd.egg-info/top_level.txt
+src/example/tdd/__init__.py
+src/example/tdd/testing.py
+src/example/tdd/tests/__init__.py
+src/example/tdd/tests/test_example.py
