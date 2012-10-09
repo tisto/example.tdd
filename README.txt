@@ -44,3 +44,14 @@ Robot Framework
 - http://ploneact.readthedocs.org/en/latest/index.html
 
 - http://ploneact.readthedocs.org/en/latest/robotsuite.html
+
+
+There is more...
+----------------
+
+- Jenkins: http://jenkins-ci.org/
+- Travis CI: http://travis-ci.org/
+- Buster.js: http://busterjs.org
+- The Grinder: http://grinder.sourceforge.net/
+- Funkload: http://funkload.nuxeo.org/
+
