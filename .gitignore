@@ -11,13 +11,14 @@
 /*.egg-info
 /.installed.cfg
 *.pyc
+/src/plone*
+/src/robot*
 /.Python
 /include
 /lib
 /.project
 /.pydevproject
 /.mr.developer.cfg
-/src/*
 *.mo
 *.egg
 docs/Makefile
