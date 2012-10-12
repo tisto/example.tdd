@@ -6,8 +6,9 @@ Test-Driven Development With Plone
 Testing with Plone
 ------------------
 
-- plone.app.testing pypi page
-- zopeskel
+- http://pypi.python.org/pypi/plone.app.testing/4.2
+- Latest zopeskel/templer:
+    $ bin/zopeskel plone_basic
 
 
 Integration Tests with Plone
@@ -22,6 +23,9 @@ Dexterity:
 Unit Tests
 ----------
 
+http://plone.org/products/dexterity/documentation/manual/behaviors/testing-behaviors
+
+http://www.martinaspeli.net/articles/mock-testing-with-mocker-and-plone.mocktestcase
 
 Mock Tests
 ----------
@@ -31,6 +35,8 @@ Mock Tests
 
 Functional Tests
 ----------------
+
+Robot Framework / Selenium 2 Examples:
 
 - https://github.com/plone/plone.app.toolbar/blob/1.x/plone/app/toolbar/tests/acceptance/toolbar.txt
 
@@ -55,3 +61,12 @@ There is more...
 - The Grinder: http://grinder.sourceforge.net/
 - Funkload: http://funkload.nuxeo.org/
 
+
+Book Recommendations
+--------------------
+
+- Kent Beck: Test-Driven Development: By Example
+  http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530
+
+- Robert C. Martin: Agile Software Development, Principles, Patterns, and Practices
+  http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445
