@@ -14,8 +14,3 @@ class ExampleIntegrationTest(unittest.TestCase):
     def test_success(self):
         sum = 1 + 3
         self.assertEqual(sum, 4)
-
-
-
-
-
