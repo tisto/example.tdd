@@ -7,7 +7,9 @@ Testing with Plone
 ------------------
 
 - http://pypi.python.org/pypi/plone.app.testing/4.2
+
 - Latest zopeskel/templer:
+
     $ bin/zopeskel plone_basic
 
 
@@ -19,6 +21,7 @@ Dexterity:
 - https://github.com/plone/plone.app.collection/blob/master/plone/app/collection/tests/test_collection.py#L87
 
 - https://github.com/plone/plone.app.contenttypes/blob/master/plone/app/contenttypes/tests/test_document.py
+
 
 Unit Tests
 ----------
@@ -55,7 +58,11 @@ Robot Framework
 There is more...
 ----------------
 
-- Jenkins: http://jenkins-ci.org/
+- Jenkins:
+    http://jenkins-ci.org
+    https://github.com/plone/buildout.jenkins
+    https://github.com/collective/collective.recipe.jenkinsjob
+    https://github.com/plone/jenkins.plone.org
 - Travis CI: http://travis-ci.org/
 - Buster.js: http://busterjs.org
 - The Grinder: http://grinder.sourceforge.net/
@@ -70,3 +77,4 @@ Book Recommendations
 
 - Robert C. Martin: Agile Software Development, Principles, Patterns, and Practices
   http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445
+
