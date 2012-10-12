@@ -3,17 +3,9 @@ import unittest2 as unittest
 
 import ExtensionClass
 import Acquisition
+from Acquisition import aq_chain
 
 from zope.interface import implements
-
-from Products.CMFCore.interfaces import IFolderish
-
-from example.tdd.handlers import \
-    update_document_title_when_object_is_modified
-
-
-
-from Acquisition import aq_chain
 
 from Products.CMFCore.interfaces import IFolderish
 
